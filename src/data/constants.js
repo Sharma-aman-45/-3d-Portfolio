@@ -181,7 +181,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://media.licdn.com/dms/image/v2/C560BAQG6BSo6-LKsyQ/company-logo_200_200/company-logo_200_200/0/1679772461239?e=2147483647&v=beta&t=2qQM4SInb2VrhyTCgq669MCE6S_dg6sknySj06U9X1k",
     role: "Frontend Engineer Intern",
     company: "Next-24-tech",
     date: "Jul 2024 - Sep 2024",
@@ -223,7 +223,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://th.bing.com/th/id/OIP.vFfgegw2DQgk-eJ_5Nvp5gAAAA?rs=1&pid=ImgDetMain",
     school: "COER UNIVERSITY",
     date: "AUG 2021 - MAY 2025",
     grade: "7.61 CGPA",
@@ -231,7 +231,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://4.bp.blogspot.com/-cKfxHZBZKNo/WIQaN1S0CwI/AAAAAAAAFAc/8CVg_TVmG6ES8uVepCpzzYmwKyxvmyR7gCLcB/s1600/kvs-logo-with-bg.png",
     school: "Kendriya Vidyalaya",
     date: "Apr 2020 - Apr 2021",
     grade: "90.6%",
@@ -239,7 +239,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://4.bp.blogspot.com/-cKfxHZBZKNo/WIQaN1S0CwI/AAAAAAAAFAc/8CVg_TVmG6ES8uVepCpzzYmwKyxvmyR7gCLcB/s1600/kvs-logo-with-bg.png",
     school: "Kendriya Vidyalaya",
     date: "Apr 2018 - Apr 2019",
     grade: "82.8%",
