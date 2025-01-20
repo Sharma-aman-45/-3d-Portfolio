@@ -10,8 +10,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Sharma-aman-45",
-  resume:
-    "https://drive.google.com/file/d/135HSihK6NyVcxqgV-SA-a2hUghT9TROZ/view?usp=sharing",
+  resume :"https://drive.google.com/file/d/19Qgpdjttn0DcFWfe5igH8B4PsPuPjzDJ/view",
   linkedin: "https://www.linkedin.com/in/aman-sharma-1891ab265/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   insta: "https://www.instagram.com/sharma_aman_45/",
  
