@@ -1,6 +1,7 @@
 export const Bio = {
   name: "Aman",
   roles: [
+    "web Developer",
     "Full Stack Developer",
     "Data Anaylst",
     "UI/UX Designer",
@@ -10,7 +11,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Sharma-aman-45",
-  resume :"https://drive.google.com/file/d/19Qgpdjttn0DcFWfe5igH8B4PsPuPjzDJ/view?usp=sharing",
+  resume :"https://docs.google.com/document/d/1uAVa41f6vFodXMhGEf4t0cRnNP6POwu612ZP2OQHi0Q/edit?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/aman-sharma-1891ab265/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   insta: "https://www.instagram.com/sharma_aman_45/",
  
@@ -59,6 +60,14 @@ export const skills = [
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
+      {
+        name: "Wordpress",
+        image:"https://th.bing.com/th/id/R.dbf4f14e6b635aab4acf1aa541e5e09f?rik=UE9S10KLJbVVzg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-m9wtHdE6ikk%2fUTFiWif2YVI%2fAAAAAAAABek%2fG9CisSfPxNs%2fs1600%2flogo%2bwordpress.png&ehk=JMmmoQ5btmPDpRUDm44w7f6sG0l1H1vbnylnbUs9NJE%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        name: "Crew AI",
+        image:"https://algorious.io/wp-content/uploads/2024/05/Crew-AI-Logo_cropped.jpg"
+      }
      
     ],
   },
@@ -178,6 +187,44 @@ export const skills = [
 ];
 
 export const experiences = [
+   {
+    id: 0,
+    img: "https://littlebeeinfotech.com/images/littlebee-new-logo-white.png",
+    role: "Web Development",
+    company: "LittleBeeinfotech",
+    date: "Jun 2025 - Present",
+    desc: "Built responsive and dynamic websites using React.js, HTML, CSS, JavaScript, WordPress, and PHP. Contributed to both frontend and backend development, ensuring seamless functionality and user experience. Work on a project which is basically a business card reader for exhibition purpose for company benefits. ",
+    skills: [
+      "ReactJS",
+      "php",
+      "NodeJs",
+      "Wordpress",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+    doc: "",
+  },
+  {
+    id: 1,
+    img: "https://abilityex.com/wp-content/uploads/2023/06/2-removebg-preview.png",
+    role: " Frontend Intern",
+    company: "Ability Ex",
+    date: "Jan 2025 - May2025",
+    desc: " Leveraged GitHub API to fetch and display contributor details, including usernames, profiles, and contribution metrics.Demonstrated commitment to sustainable engineering through best practices in code, documentation, testing and monitoring",
+    skills: [
+      "HTML",
+      "CSS",
+      "PHP",
+      "ReactJS",
+      "Vercel",
+      "BootStrap",
+      "JavaScript",
+      "Node Js",
+      
+    ],
+    doc: "",
+  },
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/v2/C560BAQG6BSo6-LKsyQ/company-logo_200_200/company-logo_200_200/0/1679772461239?e=2147483647&v=beta&t=2qQM4SInb2VrhyTCgq669MCE6S_dg6sknySj06U9X1k",
@@ -247,6 +294,113 @@ export const education = [
 ];
 
 export const projects = [
+   
+   {
+    id: 12,
+    title: "LittlebeeInfotech Official Website",
+    date: "Jul 2025 - Present",
+    description:
+      "Little Bee Infotech is the official corporate website representing the IT services and solutions offered by the company. The site showcases the company’s expertise in software development, web design, digital marketing, and IT consulting. Designed with a professional layout, it provides detailed service information, client testimonials, and a contact portal, reflecting the brand's commitment to innovation, reliability, and client satisfaction.",
+    image:
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+
+    ],
+    category: "live",
+    github: "",
+    webapp: "https://littlebeinfotech.com/",
+  }, {
+    id: 14,
+    title: "HoneymanGifting Official Website",
+    date: "Jul 2025 - Present",
+    description:
+      "Honeyman Gifting is a dynamic e-commerce platform specializing in personalized gifting solutions, including cakes, hampers, and festive products. The website offers a seamless shopping experience with product filtering, secure payment integration, and responsive design. It supports both bulk and individual orders, catering to events, corporate gifting, and personal occasions. The intuitive user interface and backend content management system enable efficient order tracking and product updates.",
+    image:
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      
+
+    ],
+    category: "live",
+    github: "",
+    webapp: "https://honeymangifting.com/",
+  },
+  {
+    id: 20,
+    title: "HoneymanFranchise ",
+    date: "Jul 2025 - Present",
+    description:
+      "Honeyman Franchise is a dedicated website aimed at potential business partners interested in franchising opportunities with the Honeyman brand. The platform provides detailed information on franchise models, investment plans, support structure, and application processes. Built with lead generation and onboarding efficiency in mind, it includes inquiry forms, FAQs, and resources to guide users through the franchise acquisition journey.",
+    image:
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React js",
+
+      "Bootstrap",
+
+    ],
+    category: "live",
+    github: "",
+    webapp: "https://card-reader-khaki.vercel.app/",
+  },
+  {
+    id: 19,
+    title: "Card Reader ",
+    date: "Jul 2025 - Present",
+    description:
+      "Created an interactive Worked as a Card Reader Operator during an exhibition, responsible for scanning and verifying attendee passes using RFID or QR-based systems. Ensured smooth and efficient entry for visitors by managing access points and assisting with registration queries.",
+    image:
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "OCR",
+      "Python",
+      "Node Js",
+      "React Flow",
+      "Machine Learning",
+      "Bootstrap",
+
+    ],
+    category: "web app",
+    github: "https://github.com/Sharma-aman-45/card-reader",
+    webapp: "https://card-reader-khaki.vercel.app/",
+  },
+
+   {
+    id: 12,
+    title: "Blog-app ",
+    date: "Feb 2025 - Mar 2025",
+    description:
+      "Developed a dynamic blog app using Next.js with MongoDB backend, featuring subscription capabilities.features like blog creation, user subscriptions, real-time updates, and responsive UI for seamless user experience.",
+    image:
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node Js",
+      "React Flow",
+      "Bootstrap",
+      "Nextjs"
+    ],
+    category: "web app",
+    github: "https://github.com/Sharma-aman-45/blogsssss",
+    webapp: "https://blogsssss.vercel.app/",
+  },
+
   {
     id: 11,
     title: "Bright Hand",
@@ -254,7 +408,7 @@ export const projects = [
     description:
       "Created an interactive e-learning platform for deaf and mute children. The website features a machine learning model that convertstext to sign language and vice versa, covering alphabets and numbers. It also includes video lectures on common daily phrases and a whiteboard for fun activities for young children.",
     image:
-      "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
     tags: [
       "React Js",
       "PostgressSQL",
@@ -277,7 +431,7 @@ export const projects = [
     description:
       "The paying guest website Project is a Web Application. This is a project that was assigned during a Course. I got the guidance and following that I made this web application with my own knowledge and use tech stack like HTML, CSS, Bootstrap, js, MySQL, React.js.Contain functionalities like Homepage, List page, Dashboard, Breadcrumb, Navbar as They provide valuable insights",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
     tags: [
       "MySQL",
       "php",
@@ -301,7 +455,7 @@ export const projects = [
     description:
       "Developed a highly interactive and user-friendly News App utilizing React, showcasing advanced web development skills and a strongunderstanding of front-end technologies. Learned how to leverage Context API for efficient state sharing between components, gainedexperience in fetching data from APIs and manipulating it within a React application.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
@@ -319,7 +473,7 @@ export const projects = [
     description:
       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
     image:
-      "https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
    
@@ -333,7 +487,7 @@ export const projects = [
     description:
       "A speech recognition python app made with OpenCV. It uses speech_recognition library to detect faces. It uses the voice recorder to detect voice . from that it try to find the emotion of that particular person",
     image:
-      "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
     
@@ -344,6 +498,8 @@ export const projects = [
     date: "oct 2024",
     description:
       " A online dashboard use to analyze sales on different cities by using different measure and relationships among tables with the help of power bi",
+      image:
+      "https://cdn.dribbble.com/users/1171903/screenshots/16780085/project.co_4x.jpg",
    
     tags: ["Power bi", "MS-Excels"],
     category: "machine learning",
