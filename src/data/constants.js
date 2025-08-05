@@ -312,8 +312,8 @@ export const projects = [
 
     ],
     category: "live",
-    github: "",
-    webapp: "https://littlebeinfotech.com/",
+    github: "https://littlebeeinfotech.com/",
+    webapp: "https://littlebeeinfotech.com/",
   }, {
     id: 14,
     title: "HoneymanGifting Official Website",
@@ -331,7 +331,7 @@ export const projects = [
 
     ],
     category: "live",
-    github: "",
+    github: "https://honeymangifting.com/",
     webapp: "https://honeymangifting.com/",
   },
   {
@@ -352,7 +352,7 @@ export const projects = [
 
     ],
     category: "live",
-    github: "",
+    github:  "https://card-reader-khaki.vercel.app/",
     webapp: "https://card-reader-khaki.vercel.app/",
   },
   {
@@ -376,7 +376,7 @@ export const projects = [
 
     ],
     category: "web app",
-    github: "https://github.com/Sharma-aman-45/card-reader",
+    github: "https://card-reader-khaki.vercel.app/",
     webapp: "https://card-reader-khaki.vercel.app/",
   },
 
